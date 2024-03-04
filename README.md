@@ -76,4 +76,4 @@ Welcome to the Chat App with Python Sockets! This real-time chat application fac
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
