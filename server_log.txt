@@ -1,0 +1,55 @@
+2024-03-04 20:49:30,835 [INFO]: [*] Listening as 0.0.0.0:5002
+2024-03-04 20:49:34,468 [INFO]: [+] ('127.0.0.1', 2586) connected.
+2024-03-04 20:49:39,044 [INFO]: [+] ('127.0.0.1', 2588) connected.
+2024-03-04 20:49:42,325 [INFO]: [+] ('127.0.0.1', 2589) connected.
+2024-03-04 20:49:47,862 [INFO]: [('127.0.0.1', 2589)] [33m[2024-03-04 20:49:47] Welcome to the chat, Anonymous3933![39m
+2024-03-04 20:49:51,064 [INFO]: [('127.0.0.1', 2586)] [31m[2024-03-04 20:49:51] Welcome to the chat, Anonymous3753![39m
+2024-03-04 20:49:53,384 [INFO]: [('127.0.0.1', 2588)] [97m[2024-03-04 20:49:53] Welcome to the chat, Anonymous5557![39m
+2024-03-04 20:50:09,717 [INFO]: [!] Error handling messages for ('127.0.0.1', 2588): [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-03-04 20:50:13,501 [INFO]: [('127.0.0.1', 2589)] [33m[2024-03-04 20:50:13] Anonymous3933: l[39m
+2024-03-04 20:50:20,022 [INFO]: [('127.0.0.1', 2586)] [31m[2024-03-04 20:50:20] Anonymous3753: hallo[39m
+2024-03-04 20:50:22,740 [INFO]: [!] Error handling messages for ('127.0.0.1', 2586): [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-03-04 20:50:26,344 [INFO]: [('127.0.0.1', 2589)] [33m[2024-03-04 20:50:26] Anonymous3933 left the chat.[39m
+2024-03-04 20:50:26,344 [INFO]: [!] ('127.0.0.1', 2589) forcibly disconnected by the client.
+2024-03-04 20:50:26,345 [INFO]: [!] Error sending message to ('127.0.0.1', 2589): [WinError 10053] An established connection was aborted by the software in your host machine
+2024-03-04 20:50:34,319 [INFO]: [*] Listening as 0.0.0.0:5002
+2024-03-04 20:50:38,531 [INFO]: [+] ('127.0.0.1', 2590) connected.
+2024-03-04 20:50:41,979 [INFO]: [+] ('127.0.0.1', 2591) connected.
+2024-03-04 20:50:45,168 [INFO]: [+] ('127.0.0.1', 2592) connected.
+2024-03-04 20:50:48,784 [INFO]: [('127.0.0.1', 2592)] [91m[2024-03-04 20:50:48] Welcome to the chat, Anonymous5330![39m
+2024-03-04 20:50:51,403 [INFO]: [('127.0.0.1', 2590)] [35m[2024-03-04 20:50:51] Welcome to the chat, Anonymous1758![39m
+2024-03-04 20:50:53,690 [INFO]: [('127.0.0.1', 2591)] [95m[2024-03-04 20:50:53] Welcome to the chat, Anonymous7766![39m
+2024-03-04 20:51:12,118 [INFO]: [('127.0.0.1', 2591)] [95m[2024-03-04 20:51:12] Anonymous7766 left the chat.[39m
+2024-03-04 20:51:12,118 [INFO]: [!] ('127.0.0.1', 2591) forcibly disconnected by the client.
+2024-03-04 20:51:12,120 [INFO]: [!] Error sending message to ('127.0.0.1', 2591): [WinError 10053] An established connection was aborted by the software in your host machine
+2024-03-04 20:51:24,913 [INFO]: [('127.0.0.1', 2592)] [91m[2024-03-04 20:51:24] Anonymous5330: a[39m
+2024-03-04 20:51:28,104 [INFO]: [('127.0.0.1', 2590)] [35m[2024-03-04 20:51:28] Anonymous1758: a[39m
+2024-03-04 20:51:31,685 [INFO]: [('127.0.0.1', 2592)] [91m[2024-03-04 20:51:31] Anonymous5330 left the chat.[39m
+2024-03-04 20:51:31,685 [INFO]: [!] ('127.0.0.1', 2592) forcibly disconnected by the client.
+2024-03-04 20:51:31,686 [INFO]: [!] Error sending message to ('127.0.0.1', 2592): [WinError 10053] An established connection was aborted by the software in your host machine
+2024-03-04 20:51:35,352 [INFO]: [('127.0.0.1', 2590)] [35m[2024-03-04 20:51:35] Anonymous1758 left the chat.[39m
+2024-03-04 20:51:35,352 [INFO]: [!] ('127.0.0.1', 2590) forcibly disconnected by the client.
+2024-03-04 20:51:35,352 [INFO]: [!] Error sending message to ('127.0.0.1', 2590): [WinError 10053] An established connection was aborted by the software in your host machine
+2024-03-04 20:53:05,211 [INFO]: [*] Listening as 0.0.0.0:5002
+2024-03-04 20:53:11,137 [INFO]: [+] ('127.0.0.1', 2634) connected.
+2024-03-04 20:53:14,476 [INFO]: [+] ('127.0.0.1', 2635) connected.
+2024-03-04 20:53:18,209 [INFO]: [+] ('127.0.0.1', 2636) connected.
+2024-03-04 20:53:21,242 [INFO]: [('127.0.0.1', 2634)] [37m[2024-03-04 20:53:21] Welcome to the chat, Anonymous8968![39m
+2024-03-04 20:53:26,869 [INFO]: [('127.0.0.1', 2635)] [32m[2024-03-04 20:53:26] Welcome to the chat, Anonymous2775![39m
+2024-03-04 20:53:34,105 [INFO]: [('127.0.0.1', 2636)] [33m[2024-03-04 20:53:34] Welcome to the chat, Mr![39m
+2024-03-04 20:53:40,847 [INFO]: [('127.0.0.1', 2636)] [33m[2024-03-04 20:53:40] Mr: hallo[39m
+2024-03-04 20:53:46,025 [INFO]: [('127.0.0.1', 2634)] [37m[2024-03-04 20:53:46] Anonymous8968: hallo[39m
+2024-03-04 20:53:50,631 [INFO]: [('127.0.0.1', 2635)] [32m[2024-03-04 20:53:50] Anonymous2775: hallo[39m
+2024-03-04 20:53:56,193 [INFO]: [+] ('127.0.0.1', 2637) connected.
+2024-03-04 20:54:01,462 [INFO]: [('127.0.0.1', 2637)] [95m[2024-03-04 20:54:01] Welcome to the chat, Anonymous4317![39m
+2024-03-04 20:54:07,480 [INFO]: [('127.0.0.1', 2637)] [95m[2024-03-04 20:54:07] Anonymous4317: t[39m
+2024-03-04 20:54:09,560 [INFO]: [!] Error handling messages for ('127.0.0.1', 2637): [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-03-04 20:54:14,424 [INFO]: [('127.0.0.1', 2636)] [33m[2024-03-04 20:54:14] Mr left the chat.[39m
+2024-03-04 20:54:14,425 [INFO]: [!] ('127.0.0.1', 2636) forcibly disconnected by the client.
+2024-03-04 20:54:14,427 [INFO]: [!] Error sending message to ('127.0.0.1', 2636): [WinError 10053] An established connection was aborted by the software in your host machine
+2024-03-04 20:54:18,119 [INFO]: [('127.0.0.1', 2635)] [32m[2024-03-04 20:54:18] Anonymous2775 left the chat.[39m
+2024-03-04 20:54:18,121 [INFO]: [!] ('127.0.0.1', 2635) forcibly disconnected by the client.
+2024-03-04 20:54:18,121 [INFO]: [!] Error sending message to ('127.0.0.1', 2635): [WinError 10053] An established connection was aborted by the software in your host machine
+2024-03-04 20:54:21,921 [INFO]: [('127.0.0.1', 2634)] [37m[2024-03-04 20:54:21] Anonymous8968 left the chat.[39m
+2024-03-04 20:54:21,921 [INFO]: [!] ('127.0.0.1', 2634) forcibly disconnected by the client.
+2024-03-04 20:54:21,922 [INFO]: [!] Error sending message to ('127.0.0.1', 2634): [WinError 10053] An established connection was aborted by the software in your host machine
