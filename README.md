@@ -48,3 +48,32 @@ Welcome to the Chat App with Python Sockets! This real-time chat application fac
 
 - Colorama: Terminal color formatting.
 - Plyer: Desktop notifications.
+
+## Troubleshooting and FAQs
+
+1. Connection Issues
+   - Connection to the Server: Ensure that the server is up and running. Check the specified SERVER_HOST and SERVER_PORT in the client.py file to match the server's details.
+   - Firewall Settings: Verify that your firewall allows communication through the specified server port. Adjust firewall settings if necessary.
+2. Customization
+   - Changing Username: If you joined anonymously and wish to change your username, simply exit the chat using 'q' and restart the client with a new username.
+3. Feedback and Issues
+   - Reporting Issues: If you encounter any issues or bugs, please open an issue on the GitHub repository. Provide detailed information about the problem, and we'll work to address it.
+   - Feature Requests: Feel free to suggest new features or improvements. We appreciate user feedback and strive to enhance the chat app based on community input.
+## Development and Contributions
+
+1. Setting Up a Development Environment
+   - Clone the repository: git clone https://github.com/yourusername/ChatApp.git
+   - Install dependencies: pip install -r requirements.txt
+   - Make your changes and test them locally.
+2. Submitting Changes
+   - Fork the repository.
+   - Create a new branch for your changes: git checkout -b feature/your-feature
+   - Commit your changes: git commit -m "Add your feature"
+   - Push the branch to your fork: git push origin feature/your-feature
+   - Open a pull request on the main repository.
+3. Code Style
+   Follow the existing code style to maintain consistency. Ensure your code is well-documented, and add comments where necessary.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
